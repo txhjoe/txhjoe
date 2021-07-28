@@ -70,5 +70,5 @@ Still waiting for an opportunity. Learning in progress.
 RISE with BCG
 
 ##### Achievements
-Top 2 performing Groups in Business Essentials Group Project
+Top 2 performing Groups in BEGP
 <!-- FEATURED Section Ends -->
