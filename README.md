@@ -53,13 +53,19 @@ Bachelor of Science (Hons) in Banking & Finance, Second Upper Honours
 ### PROJECTS
 <!-- Add your details -->
 
-None so far
+[BCG RISE](#BCG-RISE-Project) <br>
 
 <!-- Add your details -->
 
 #### Projects
 
 Still waiting for an opportunity. Learning in progress.
+
+#### BCG RISE Project
+
+I am part of BDA track on BCG RISE Project.
+
+[For more details refer to this link](https://bcg.com)
 
 <!-- PROJECTS Section Ends -->
 
