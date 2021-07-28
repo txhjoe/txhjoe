@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Joe__, currently undertaking the RISE programme with BCG.
 
 
 <!-- Add link to the sections -->
@@ -31,21 +31,21 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 ### EXPERIENCE
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+DATA ANALYST (ASPIRING)<br>
+Apr-2021 to Present: 3 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Data Analyst Wannabe
+UNIT: BCG RISE
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Work in progress :(
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### University of London
+Bachelor of Science (Hons) in Banking & Finance, Second Upper Honours
 
 <!-- EDUCATION Section Ends -->
 
@@ -53,24 +53,13 @@ Engineering Graduate 2010-14, First Division
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
+None so far
 
 <!-- Add your details -->
 
-#### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+#### Projects
 
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
-
-#### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
-
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+Still waiting for an opportunity. Learning in progress.
 
 <!-- PROJECTS Section Ends -->
 
@@ -78,8 +67,8 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+RISE with BCG
 
 ##### Achievements
-Star performer of the year at Accenture
+Top 2 performing Groups in Business Essentials Group Project
 <!-- FEATURED Section Ends -->
