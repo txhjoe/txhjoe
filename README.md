@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/txhjoe/txhjoe/main/images/Corgi-at-home.jpg.webp)
 
 <!-- Add your details -->
 
@@ -51,10 +51,6 @@ Bachelor of Science (Hons) in Banking & Finance, Second Upper Honours
 
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
-<!-- Add your details -->
-
-[BCG RISE](#BCG-RISE-Project) <br>
-
 <!-- Add your details -->
 
 #### Projects
